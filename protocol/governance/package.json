@@ -53,7 +53,7 @@
     "@openzeppelin/contracts-ethereum-package": "^3.0.0",
     "ethereum-waffle": "^3.2.0",
     "ethereumjs-util": "^7.0.7",
-    "ethers": "^5.0.19",
+    "ethers": "^5.0.23",
     "hardhat": "^2.0.3",
     "hardhat-deploy": "^0.7.0-beta.28",
     "hardhat-deploy-ethers": "^0.3.0-beta.5",
