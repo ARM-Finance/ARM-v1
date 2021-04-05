@@ -18,10 +18,7 @@
   <a href="#Documentation">Documentation</a>
 </p>
 
-ARM is a non-inflationary cryptocurrency that is designed to:
-1. execute yield-generating strategies autonomously within, and to the benefit of, a completely decentralized governance
-2. assure that buying pressure will always be generally more intense than selling pressure
-3. assure that TVL (Total Value Locked) can only ever increase
+ARM is a non-inflationary ERC-95 governance token built on Ethereum
 
 ## Website
 `TODO`
