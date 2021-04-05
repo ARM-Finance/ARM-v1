@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="#Website">Website</a> •
-  <a href="#Documentation">Documentation</a>
+  <a href="#Website">Website</a>
 </p>
 
 ARM is a non-inflationary ERC-95 governance token built on Ethereum
