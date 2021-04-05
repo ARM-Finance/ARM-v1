@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://avault.finance"><img src="https://avatars0.githubusercontent.com/u/72398747?s=200&v=4" alt="Kingmaker" width="200"></a>
+  <a href="https://avault.finance"><img src="https://avatars0.githubusercontent.com/u/72398747?s=200&v=4" alt="ARM Finance" width="200"></a>
   <br>
   ARM
   <br>
