@@ -65,7 +65,7 @@
     "@nomiclabs/hardhat-etherscan": "^2.0.1",
     "@nomiclabs/hardhat-solhint": "^2.0.0",
     "@types/chai": "^4.2.14",
-    "@types/mocha": "^8.0.4",
+    "@types/mocha": "^9.0.0",
     "@types/node": "^14.14.7",
     "chai": "^4.2.0",
     "hardhat-abi-exporter": "^2.0.6",
